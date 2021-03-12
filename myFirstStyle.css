@@ -1,0 +1,42 @@
+body {
+    background-color:rgb(140, 228, 240);
+    
+}  
+  div {
+    width: 600px;
+    padding: 15px;
+    margin: 30px;
+    background-color: rgb(60, 50, 10);
+  }
+ 
+  
+  h1, h2 {
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: darkturquoise;
+text-align: left;
+  }
+
+  p, li {
+      color: white;
+  }
+
+a{
+      color:rgb(50, 161, 68);
+      text-decoration:none;
+  }
+  #netflix:hover {
+    color:rgb(255, 72, 0);
+    
+}
+
+  .myfooter {
+      color: whitesmoke;
+  }
+
+  #main:first-letter {
+    float: left;
+    font-size: 45px;
+    line-height: 1;
+    font-weight: bold;
+    margin-right: 9px;
+}
